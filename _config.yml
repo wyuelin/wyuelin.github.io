@@ -27,7 +27,7 @@ favicon: /public/img/wangsir.ico
 # google analytics 设置
 ga:
   id: UA-54685312-1
-  url: wyuelin.github.com
+  url: wyuelin.github.io
 
 # disqus 设置
 disqus:
